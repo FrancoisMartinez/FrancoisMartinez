@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @FrancoisMartinez
-- 👀 I’m interested in Android and Web development
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in AI and Web development
+- 🌱 I’m currently learning ReactJS
 - 📫 You can reach me by email: martinezfrancois004@gmail.com
